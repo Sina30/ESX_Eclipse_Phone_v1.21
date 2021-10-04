@@ -1,0 +1,7 @@
+D:\projects\gta5\marketplace\esx\txData\PlumeESX_86BBE6.base\resources\eclipse_phone\Phone-server.net.dll
+D:\projects\gta5\marketplace\esx\txData\PlumeESX_86BBE6.base\resources\eclipse_phone\Phone-server.net.pdb
+D:\projects\gta5\marketplace\phone\Phone\Phone-server\obj\Debug\Phone-server.csprojAssemblyReference.cache
+D:\projects\gta5\marketplace\phone\Phone\Phone-server\obj\Debug\Phone-server.csproj.CoreCompileInputs.cache
+D:\projects\gta5\marketplace\phone\Phone\Phone-server\obj\Debug\Phone-server.csproj.CopyComplete
+D:\projects\gta5\marketplace\phone\Phone\Phone-server\obj\Debug\Phone-server.net.dll
+D:\projects\gta5\marketplace\phone\Phone\Phone-server\obj\Debug\Phone-server.net.pdb
